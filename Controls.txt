@@ -1,0 +1,9 @@
+
+PLAYER CONTROLS
+----------------
+KEY	COMMAND
+W	UP
+S	DOWN
+A	LEFT
+D	RIGHT
+
